@@ -1,0 +1,26 @@
+# Humanitru
+
+> Humanitru is an integration-first CRM and fundraising platform for nonprofits, museums, zoos, aquariums, botanic gardens, and food banks. It consolidates donor, membership, ticketing, email, accounting, and volunteer data from 40+ partner tools into a single view with automated insights and donor-engagement workflows. Formerly Totem Insights; a Techstars portfolio company. There is no public developer API, developer portal, or documentation — connectivity is delivered through a curated native integration catalog.
+
+## Company
+- [Website](https://humanitru.com/): Humanitru product and company site
+- [Platform](https://humanitru.com/platform): Product overview
+- [Integrations](https://humanitru.com/integrations): 40+ native partner integrations (Stripe, Square, PayPal, QuickBooks, Mailchimp, Twilio, Shopify, Eventbrite, and more)
+- [Pricing](https://humanitru.com/pricing): Plans and pricing
+- [Request a Demo](https://humanitru.com/demo): Get started / demo request
+- [Contact / Support](https://humanitru.com/contact): Customer support
+
+## Resources
+- [Blog](https://humanitru.com/blog): Product and nonprofit fundraising blog
+- [Case Studies](https://humanitru.com/case-studies): Customer outcomes
+- [Webinars](https://humanitru.com/webinars): Recorded and upcoming webinars
+- [Free Tools](https://humanitru.com/free-tools): Free nonprofit tools
+
+## Legal
+- [Privacy Policy](https://humanitru.com/privacy-policy)
+- [Terms of Use](https://humanitru.com/terms-of-use)
+- [Cookie Policy](https://humanitru.com/cookie-policy)
+
+## Notes
+- No public REST/GraphQL API, OpenAPI, SDKs, CLI, MCP server, or developer documentation were found (probed 2026-07-19).
+- No developer, api, or docs subdomains resolve; no /.well-known/security.txt or /llms.txt published.

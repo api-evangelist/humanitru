@@ -1,7 +1,16 @@
 aid: humanitru
 name: Humanitru
-description: Humanitru is a company surfaced as a portfolio company of techstars and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Humanitru is an integration-first CRM and fundraising platform built for nonprofits, museums, zoos,
+  aquariums, botanic gardens, and food banks. Rather than forcing organizations into an all-in-one
+  ecosystem, Humanitru consolidates donor, membership, ticketing, email marketing, accounting, and
+  volunteer data from more than 40 partner tools into a single 360-degree view, then layers automated
+  insights, reporting, and donor-engagement workflows on top. The company positions itself around
+  data consolidation and retention, citing customer outcomes such as increased active donors and
+  improved donor retention, and pairs the platform with one-on-one support staffed by former
+  fundraisers and database managers. Humanitru (formerly operating as Totem Insights) is a Techstars
+  portfolio company. It exposes no public developer API, developer portal, or documentation; all
+  connectivity is delivered through its curated native integration catalog.
 url: https://raw.githubusercontent.com/api-evangelist/humanitru/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +18,30 @@ x-backed-by:
 - techstars
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/698241a7b516516506d193d8/69bb4b0af688a315ddcae000_website%20open%20graph%20image.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- CRM
+- Nonprofit
+- Fundraising
+- Donor Management
+- Integrations
+- Membership
+- Museums
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +50,27 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://toteminsights.com/
+  url: https://humanitru.com/
+- type: Blog
+  url: https://humanitru.com/blog
+- type: Pricing
+  url: https://humanitru.com/pricing
+- type: Integrations
+  url: https://humanitru.com/integrations
+- type: Support
+  url: https://humanitru.com/contact
+- type: PrivacyPolicy
+  url: https://humanitru.com/privacy-policy
+- type: TermsOfService
+  url: https://humanitru.com/terms-of-use
+- type: GitHubOrganization
+  url: https://github.com/humanitru
+- type: DomainSecurity
+  url: security/humanitru-domain-security.yml
+- type: LLMsTxt
+  url: llms/humanitru-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
