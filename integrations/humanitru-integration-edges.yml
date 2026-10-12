@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/humanitru/integrations
+- https://n8n.io/integrations/humanitru/
+- https://composio.dev/toolkits/humanitru
+- https://monid.ai/tools/humanitru
+checked:
+- https://composio.dev/toolkits/humanitru
+- https://monid.ai/tools/humanitru
+- https://n8n.io/integrations/humanitru/
+- https://zapier.com/apps/humanitru/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
