@@ -1,16 +1,34 @@
 generated: '2026-10-12'
-method: none
+method: searched
 source:
 - https://zapier.com/apps/humanitru/integrations
 - https://n8n.io/integrations/humanitru/
 - https://composio.dev/toolkits/humanitru
 - https://monid.ai/tools/humanitru
 checked:
+- classy-org/integrations/classy-org-integration-edges.yml
 - https://composio.dev/toolkits/humanitru
 - https://monid.ai/tools/humanitru
 - https://n8n.io/integrations/humanitru/
 - https://zapier.com/apps/humanitru/integrations
 summary: null
 marketplace_apps: []
-edges: []
+edges:
+- partner_name: Classy (own)
+  partner: classy-org
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: own
+  evidence: https://pro.gofundme.com/c/integrations/humanitru/
+  mirror_of: classy-org/integrations/classy-org-integration-edges.yml
+  apps:
+  - Humanitru
+  listing_count: 1
+  detected: '2026-10-14'
+  detected_by: mirror-platform-listings.py
+  category: crm-donor-management
 templates: []
